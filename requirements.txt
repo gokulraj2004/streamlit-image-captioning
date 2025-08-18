@@ -1,0 +1,5 @@
+PIL
+transformers
+streamlit
+torch
+ torchvision
