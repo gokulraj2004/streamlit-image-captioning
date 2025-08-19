@@ -2,4 +2,4 @@ PIL
 transformers
 streamlit
 torch
- torchvision
+torchvision
